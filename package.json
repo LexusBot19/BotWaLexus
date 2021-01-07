@@ -1,7 +1,7 @@
 {
-  "name": "XBOT",
+  "name": "LEXUSBOT",
   "version": "1.0.0",
-  "description": "TERMUX ONLY XBOT",
+  "description": "TERMUX ONLY LexusBot",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -36,15 +36,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/affisjunianto/botwasapv2/.git"
+    "url": "git+https://github.com/LexusBot19/BotWaLexus"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "Lexus Bot",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/affisjunianto/botwasapv2/issues"
+    "url": "https://github.com/LexusBot19/BotWaLexus"
   },
-  "homepage": "https://github.com/affisjunianto/botwasapv2/readme"
+  "homepage": "https://github.com/LexusBot19/BotWaLexus/readme.md"
 }
