@@ -1,2 +1,1 @@
-# BotWaLexus
-LexusBot
+# botwasapv2
